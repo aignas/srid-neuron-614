@@ -7,6 +7,6 @@ Links:
   - Does not work in neuron, but works in Github: [relative path including dir](dir/something.md)#
 - [Another zettel](another.md)#
 
-You can see, that the [Forgezettel][1] links are not working here.
+You can see, that the [Forgezettel][1] links in this file are not working correctly in the neuron static site generator.
 
 [1]: https://neuron.zettel.page/folgezettel
